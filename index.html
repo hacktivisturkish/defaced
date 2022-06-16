@@ -203,7 +203,7 @@ document.addEventListener('DOMContentLoaded', function (event) {
         <center>
           <small>TurkishHacktivist!</small>
           <br>
-          <img src="https://d.ibtimes.co.uk/en/full/1488112/anonymous.jpg?w=1600&h=1600&q=88&f=09577e77fff35d80e8f49f701844a2a0" width="220" height="220" loading="lazy" onerror="this.style.display = 'none'">
+          <img src="https://www.tccb.gov.tr/assets/resim/album/haber/2019A/2019-01-09-msb-genkur-01.jpg" width="520" height="420" loading="lazy" onerror="this.style.display = 'none'">
           <br>Âllâhümme salli  <red><i>alâ Muhammed</i></red><br>
           <font size="1" color="gray">hacker by : rootayyildiz</font>
           <font size="2" id="hekerabies"></font><br><br>
